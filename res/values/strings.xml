@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Init.d</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">Universal Init.d</string>
+    <string name="welcome">Welcome to the first fully Universal Init.d support application.\nThis application will allow you to enjoy automatic execution of scripts at each boot, even without a kernel that supports init.d</string>
+
+</resources>
